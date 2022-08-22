@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Gabriel Lima
 
-- 🏫 Análise e Desenvolvimento de Sistemas - Fatec Presidente Prudente
-- 💻 Front-End
+- 🏫 Análise e Desenvolvimento de Sistemas - Fatec Presidente Prudente💻
 
 <div align="center">
   <a href="https://github.com/gabriellima3">
