@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel Lima
+### Olá! Eu sou o Gabriel Lucas
 
 - 🏫 Análise e Desenvolvimento de Sistemas - Fatec Presidente Prudente💻
 
