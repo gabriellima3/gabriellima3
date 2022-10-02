@@ -1,6 +1,5 @@
-### Olá! Eu sou o Gabriel Lucas
+### 💻Hi, my name is Gabriel and I'm 20 years old. I am currently studying Systems Analysis and Development at Fatec Presidente Prudente, where I developed my programming logic, had contact with some programming languages, learned about relational databases, Object Oriented Programming, the stages of software development and participated of several events related to the technology area.
 
-- 🏫 Análise e Desenvolvimento de Sistemas - Fatec Presidente Prudente💻
 
 <div align="center">
   <a href="https://github.com/gabriellima3">
