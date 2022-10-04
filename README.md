@@ -1,6 +1,3 @@
-### 💻Hi, my name is Gabriel and I'm 20 years old. I am currently studying Systems Analysis and Development at Fatec Presidente Prudente, where I developed my programming logic, had contact with some programming languages, learned about relational databases, Object Oriented Programming, the stages of software development and participated of several events related to the technology area.
-
-
 <div align="center">
   <a href="https://github.com/gabriellima3">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriellima3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
