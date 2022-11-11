@@ -1,4 +1,4 @@
-Olá, me chamo Gabriel Lima. Atualmente cursando Análise e Desenvolvimento de Sistemas na Fatec Presidente Prudente. Onde desenvolvi minha lógica de programação, entendi as etapas do desenvolvimento de um software, aprendi sobre bancos de dados relacionais, Programação Orientada a Objetos e participei de diversos eventos relacionados à área da tecnologia.
+Hi, my name is Gabriel! Currently studying Systems Analysis and Development at Fatec Presidente Prudente. Where I developed my programming logic, understood the stages of software development, learned about relational and non-relational databases, Object Oriented Programming and participated in several events related to the technology area.
 ##
 <div align="center">
   <a href="https://github.com/gabriellima3">
