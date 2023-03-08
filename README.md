@@ -1,5 +1,7 @@
 Hi, my name is Gabriel! Currently studying Systems Analysis and Development at Fatec Presidente Prudente. Where I developed my programming logic, understood the stages of software development, learned about relational and non-relational databases, Object Oriented Programming and participated in several events related to the technology area.
 ##
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B30202&width=435&lines=Bem+vindo+ao+meu+Github!;Welcome+to+my+Github!" alt="Typing SVG" /></a>
+##
 <div align="center">
   <a href="https://github.com/gabriellima3">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriellima3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
