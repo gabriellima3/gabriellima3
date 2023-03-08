@@ -2,7 +2,7 @@ Hi, my name is Gabriel! Currently studying Systems Analysis and Development at F
 
 Currently focused on delving into the Angular web programming platform, which has a front-end based on Typescript.
 ##
-<div text="center">
+<div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=1000&color=B30202&width=435&lines=Bem+vindo+ao+meu+Github!;Welcome+to+my+Github!" alt="Typing SVG" /></a>
  </div>
 ##
