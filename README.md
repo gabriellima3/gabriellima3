@@ -3,12 +3,13 @@ Hi, my name is Gabriel! Currently studying Systems Analysis and Development at F
 Currently focused on delving into the Angular web programming platform, which has a front-end based on Typescript.
 ##
 
-<div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=1000&color=B30202&width=435&lines=Bem+vindo+ao+meu+Github!;Welcome+to+my+Github!" alt="Typing SVG" /></a>
- </div>
-##
+
+ 
+
 
 <div align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=1000&color=B30202&width=435&lines=Bem+vindo+ao+meu+Github!;Welcome+to+my+Github!" alt="Typing SVG" /></a>
+ </div>
   <a href="https://github.com/gabriellima3">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriellima3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima3&layout=compact&langs_count=7&theme=dracula"/>
