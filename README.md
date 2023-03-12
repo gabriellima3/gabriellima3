@@ -1,6 +1,6 @@
-Hi, my name is Gabriel! Currently studying Systems Analysis and Development at Fatec Presidente Prudente. Where I developed my programming logic, understood the stages of software development, learned about relational and non-relational databases, Object Oriented Programming and participated in several events related to the technology area.
+Olá, meu nome é Gabriel! Cursando Análise e Desenvolvimento de Sistemas na Fatec Presidente Prudente. Onde desenvolvi minha lógica de programação, entendi as etapas do desenvolvimento de software, aprendi sobre bancos de dados relacionais e não relacionais, Programação Orientada a Objetos e participei de diversos eventos relacionados a área de tecnologia.
 
-Currently focused on delving into the Angular web programming platform, which has a front-end based on Typescript.
+Atualmente focado em mergulhar na plataforma de programação web Angular, que possui um front-end baseado em Typescript.
 ##
 
 
