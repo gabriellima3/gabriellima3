@@ -1,4 +1,4 @@
-Olá, meu nome é Gabriel! Cursando Análise e Desenvolvimento de Sistemas na Fatec Presidente Prudente. Onde desenvolvi minha lógica de programação, entendi as etapas do desenvolvimento de software, aprendi sobre bancos de dados relacionais e não relacionais, Programação Orientada a Objetos e participei de diversos eventos relacionados a área de tecnologia.
+Amante de tecnologia e sempre em busca de novidades, passo meu tempo livre jogando League of Legends e desfrutando de um bom tereré. Entusiasta de programação, estou sempre aprendendo e explorando novas tecnologias para aprimorar minhas habilidades como desenvolvedor.
 
 Atualmente focado em mergulhar na plataforma de programação web Angular, que possui um front-end baseado em Typescript.
 ##
