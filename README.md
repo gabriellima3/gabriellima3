@@ -1,13 +1,15 @@
+## Olá, tudo bem? Eu sou o Gabriel Lima
+
 Amante de tecnologia e sempre em busca de novidades, passo meu tempo livre jogando Lol e desfrutando de um bom tereré. Entusiasta de programação, estou sempre aprendendo e explorando novas tecnologias para aprimorar minhas habilidades como desenvolvedor.
 
 Atualmente focado em mergulhar na plataforma de programação web Angular, que possui um front-end baseado em Typescript.
 ##
 
-
  
 
 
 <div align="center">
+ <div>
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=1000&color=B30202&width=435&lines=Bem+vindo+ao+meu+Github!;Welcome+to+my+Github!" alt="Typing SVG" /></a>
  </div>
   <a href="https://github.com/gabriellima3">
@@ -25,7 +27,13 @@ Atualmente focado em mergulhar na plataforma de programação web Angular, que p
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
+ <img align="center" alt="Bulma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
+   <img  align="center" alt="Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
+ <img  align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+ <img align="center" alt="PostGresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+          
           
           
 </div>
