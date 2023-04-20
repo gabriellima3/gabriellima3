@@ -1,4 +1,4 @@
-## Olá, tudo bem? Eu sou o Gabriel Lima
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=1000&color=B30202&width=435&lines=Bem+vindo+ao+meu+Github!;Welcome+to+my+Github!" alt="Typing SVG" /></a>
 
 Amante de tecnologia e sempre em busca de novidades, passo meu tempo livre jogando Lol e desfrutando de um bom tereré. Entusiasta de programação, estou sempre aprendendo e explorando novas tecnologias para aprimorar minhas habilidades como desenvolvedor.
 
@@ -9,9 +9,6 @@ Atualmente focado em mergulhar na plataforma de programação web Angular, que p
 
 
 <div align="center">
- <div>
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=1000&color=B30202&width=435&lines=Bem+vindo+ao+meu+Github!;Welcome+to+my+Github!" alt="Typing SVG" /></a>
- </div>
   <a href="https://github.com/gabriellima3">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriellima3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima3&layout=compact&langs_count=7&theme=dracula"/>
