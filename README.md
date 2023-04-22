@@ -2,7 +2,6 @@
 
 Amante de tecnologia e sempre em busca de novidades, passo meu tempo livre jogando Lol e desfrutando de um bom tereré. Entusiasta de programação, estou sempre aprendendo e explorando novas tecnologias para aprimorar minhas habilidades como desenvolvedor.
 
-Atualmente focado em mergulhar na plataforma de programação web Angular, que possui um front-end baseado em Typescript.
 ##
 
  
